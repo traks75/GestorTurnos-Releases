@@ -2,7 +2,7 @@
   "version": "1.2.0",
   "release_date": "2026-08-06",
   "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.0/Setup_GestorTurnos_Pro_v1.2.0.exe",
-  "sha256": "2bfb4f323f1411bdc05abbef4dfb55abf2411b2a10db690a1a558170879e51ed",
-  "changelog": "",
+  "sha256": "cccaf4c827091c648bc996647f99ccda88d1cd3d338984e0810615f6b801a7e1",
+  "changelog": "Editor de datos de empresa y logotipo en Configuracion. Boton Buscar actualizaciones. Dialogo de instalacion completada con opcion de reinicio. Mejoras de visibilidad en la barra lateral.",
   "mandatory": false
 }
