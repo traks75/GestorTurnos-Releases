@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "release_date": "2026-08-06",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.2/Setup_GestorTurnos_Pro_v1.2.2.exe",
-  "sha256": "7a05a8b1a82a5a8de445e6efbe1d49528c641bdd1502ac42c42d570523f6ec2e",
-  "changelog": "Correcciones criticas: ventana Configuracion y Acerca de se cierran correctamente. Fix bug CTkButton en CustomTkinter. Colores uniformes en barra lateral. Fecha eliminada del encabezado. Check de actualizaciones cada hora con boton manual.",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.3/Setup_GestorTurnos_Pro_v1.2.3.exe",
+  "sha256": "b7d0bb91baf934a76e2353c03d1ce0181d5d87e7c49c6526acebd4b19885e178",
+  "changelog": "Mejora descarga de actualizaciones: timeout de 30s y progreso en MB cuando el servidor no informa del tamano total.",
   "mandatory": false
 }
