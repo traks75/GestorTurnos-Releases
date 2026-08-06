@@ -2,7 +2,7 @@
   "version": "1.4.0",
   "release_date": "2026-08-06",
   "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.4.0/Setup_GestorTurnos_Pro_v1.4.0.exe",
-  "sha256": "259b37094b84cd5966720a4804ebf530fb4a47a67c18b6a118ea6e01aba98426",
+  "sha256": "2d4e1557f87582b00bec9daa4c0962d3f781452bde27ef8f975491f4d8b53cdb",
   "changelog": "- Dirección: calendario anual de vacaciones multi-departamento con selector por sección y exportación\n- Turnos: botón Historial para importar turnos pasados y entrenar el algoritmo de generación\n- Algoritmo: aprendizaje continuo desde correcciones manuales (libres consecutivos, turnos post-noche, distribución)",
   "mandatory": false
 }
