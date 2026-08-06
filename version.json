@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "release_date": "2026-08-06",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.0/Setup_GestorTurnos_Pro_v1.2.0.exe",
-  "sha256": "cccaf4c827091c648bc996647f99ccda88d1cd3d338984e0810615f6b801a7e1",
-  "changelog": "Editor de datos de empresa y logotipo en Configuracion. Boton Buscar actualizaciones. Dialogo de instalacion completada con opcion de reinicio. Mejoras de visibilidad en la barra lateral.",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.1/Setup_GestorTurnos_Pro_v1.2.1.exe",
+  "sha256": "273e329db29f63d629707c8867c6a10012d394f47cffb38e69c116b55b4b54a6",
+  "changelog": "Correcciones: dialogo Configuracion ya no se bloquea al cancelar ni al guardar empresa. Dialogo Acerca de ampliado. Colores uniformes en barra lateral. Fecha eliminada del encabezado principal. Check de actualizaciones cada hora.",
   "mandatory": false
 }
