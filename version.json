@@ -1,8 +1,8 @@
 {
-  "version": "1.2.9",
+  "version": "1.3.0",
   "release_date": "2026-08-06",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.9/Setup_GestorTurnos_Pro_v1.2.9.exe",
-  "sha256": "7de865fee8f56d617f6b52a891ca1931b093accad833f71ecfc1ef430bb91671",
-  "changelog": "- Actualización automática: corregida la descarga desde GitHub Releases\n- Wizard: selección de varios departamentos por equipo con departamento principal\n- Acerca de: guía de uso completa del programa",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.3.0/Setup_GestorTurnos_Pro_v1.3.0.exe",
+  "sha256": "91f22d021212c21992322b7281d0626922386d28a3278e84171e6a45359386ca",
+  "changelog": "- Actualización automática: corregida la instalación desde departamentos sin necesitar contraseña de administrador\n- Actualización automática: corregida la descarga desde GitHub Releases\n- Wizard: selección de varios departamentos por equipo\n- Acerca de: guía de uso completa del programa",
   "mandatory": false
 }
