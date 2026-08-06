@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "release_date": "2026-08-06",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.1/Setup_GestorTurnos_Pro_v1.2.1.exe",
-  "sha256": "273e329db29f63d629707c8867c6a10012d394f47cffb38e69c116b55b4b54a6",
-  "changelog": "Correcciones: dialogo Configuracion ya no se bloquea al cancelar ni al guardar empresa. Dialogo Acerca de ampliado. Colores uniformes en barra lateral. Fecha eliminada del encabezado principal. Check de actualizaciones cada hora.",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.2/Setup_GestorTurnos_Pro_v1.2.2.exe",
+  "sha256": "7a05a8b1a82a5a8de445e6efbe1d49528c641bdd1502ac42c42d570523f6ec2e",
+  "changelog": "Correcciones criticas: ventana Configuracion y Acerca de se cierran correctamente. Fix bug CTkButton en CustomTkinter. Colores uniformes en barra lateral. Fecha eliminada del encabezado. Check de actualizaciones cada hora con boton manual.",
   "mandatory": false
 }
