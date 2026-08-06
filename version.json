@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "release_date": "2026-08-06",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.4/Setup_GestorTurnos_Pro_v1.2.4.exe",
-  "sha256": "250dd5ca93eb2665c8cfbf03c899186cf17c40f3678ad49463caf303db2b99ec",
-  "changelog": "Fix actualizacion: instalador arranca sin bloquear el programa. Boton Gestionar contrasena eliminado de Configuracion (ya disponible en barra lateral).",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.5/Setup_GestorTurnos_Pro_v1.2.5.exe",
+  "sha256": "9f70b99d27539dfc28b9291169bf41c9d0c2d70488c92a38ae7f0f65bce75ed8",
+  "changelog": "Fix actualizacion: descarga completa antes de instalar, pantalla de confirmacion con boton Instalar y cerrar para evitar cierre inesperado del programa.",
   "mandatory": false
 }
