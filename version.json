@@ -2,7 +2,7 @@
   "version": "1.2.6",
   "release_date": "2026-08-06",
   "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.2.6/Setup_GestorTurnos_Pro_v1.2.6.exe",
-  "sha256": "595c896fe1fc6f15fb14da61883d527996ba67672fe42d8b1348961c8478b68a",
-  "changelog": "- Turnos: los departamentos ya pueden ver y generar turnos correctamente\n- Actualizacion: instalacion desde departamentos sin necesitar contrasena de administrador a partir de v1.2.7",
+  "sha256": "6cfd633d092a96b0703fb1356c492a232943b20eb9bd597f3341b0736cd67c95",
+  "changelog": "- Turnos: los departamentos ya pueden ver y generar turnos correctamente",
   "mandatory": false
 }
