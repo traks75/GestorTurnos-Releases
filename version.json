@@ -2,7 +2,7 @@
   "version": "1.6.0",
   "release_date": "2026-08-09",
   "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.6.0/Setup_GestorTurnos_Pro_v1.6.0.exe",
-  "sha256": "78B3FC99AB80865611ED9D9229B20ED8903ABD7773F5C72F0F328EF0DB984126",
+  "sha256": "70F9E10D435D50D4ACD6A35A4EB9EF3D5A25B12C7F4947B9D08C46083A41D303",
   "changelog": "Mejoras de interfaz: estados vacíos con CTAs, contadores de empleados por departamento, gráfico de turnos en resumen ejecutivo, correcciones de colores y tipografía.",
   "mandatory": false
 }
