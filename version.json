@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "release_date": "2026-08-09",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.6.0/Setup_GestorTurnos_Pro_v1.6.0.exe",
-  "sha256": "70F9E10D435D50D4ACD6A35A4EB9EF3D5A25B12C7F4947B9D08C46083A41D303",
-  "changelog": "Mejoras de interfaz: estados vacíos con CTAs, contadores de empleados por departamento, gráfico de turnos en resumen ejecutivo, correcciones de colores y tipografía.",
+  "version": "1.6.1",
+  "release_date": "2026-08-10",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.6.1/Setup_GestorTurnos_Pro_v1.6.1.exe",
+  "sha256": "82C08FFA84F9E24FCACD9FCF26F77A5425F3DDAE75AC6495A1F080D08436FD29",
+  "changelog": "- Dirección: gráfico de turnos siempre visible en Resumen Ejecutivo\n- Dirección: orden canónico de departamentos en todos los informes\n- Impresión: cabecera con nombre del hotel y departamento en listados HTML y CSV\n- Impresión: formato A4 optimizado para ajustar listados en una sola hoja",
   "mandatory": false
 }
