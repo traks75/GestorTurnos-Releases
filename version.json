@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "release_date": "2026-08-06",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.5.0/Setup_GestorTurnos_Pro_v1.5.0.exe",
-  "sha256": "079944c0a484247a6dbcdc49366a94a76ea895cca37ff3e5b31d890caaca3154",
-  "changelog": "- Seguridad: el instalador de actualización ya no puede usarse como instalación nueva sin licencia\n- Seguridad: las claves de licencia llevan checksum criptográfico, claves falsas o manipuladas se rechazan\n- Dirección: calendario anual de vacaciones multi-departamento\n- Turnos: historial para entrenar el algoritmo de generación\n- Algoritmo: aprendizaje continuo desde correcciones manuales",
+  "version": "1.6.0",
+  "release_date": "2026-08-09",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.6.0/Setup_GestorTurnos_Pro_v1.6.0.exe",
+  "sha256": "78B3FC99AB80865611ED9D9229B20ED8903ABD7773F5C72F0F328EF0DB984126",
+  "changelog": "Mejoras de interfaz: estados vacíos con CTAs, contadores de empleados por departamento, gráfico de turnos en resumen ejecutivo, correcciones de colores y tipografía.",
   "mandatory": false
 }
