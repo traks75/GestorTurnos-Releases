@@ -1,8 +1,8 @@
 {
-  "version": "1.6.2",
+  "version": "1.6.3",
   "release_date": "2026-08-10",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.6.2/Setup_GestorTurnos_Pro_v1.6.2.exe",
-  "sha256": "92CE728A1A44C8F55093518E03F8E7780123E1AAD0343AAC2953E1FB529CD98E",
-  "changelog": "- Vacaciones: valor por defecto 48 días según convenio hostelería Las Palmas\n- Bajas: nuevo campo Tipo (Accidente laboral, Enfermedad <15 días, Enfermedad >15 días, Oncológica)\n- Anomalías: detección de descanso semanal no consecutivo (Art. 24.4 Convenio)\n- Anomalías: detección de IT repetida <15 días sin cobertura (Art. 28 Convenio)\n- Seguridad: re-verificación de integridad SHA-256 antes de ejecutar el instalador\n- Seguridad: validación del host final tras redirecciones de GitHub Releases",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.6.3/Setup_GestorTurnos_Pro_v1.6.3.exe",
+  "sha256": "58A457B0B6818BD4C668B59DB7C9A9BF4F3EE88D9445B578017ED702132F8E8C",
+  "changelog": "- Guía de uso: se abre en el navegador con imagen visual de cada pantalla\n- Guía de uso: teclas rápidas y contenido actualizado con nuevas funciones\n- Impresión plan semanal: muestra el nombre del hotel en lugar de 'GestorTurnos Pro'",
   "mandatory": false
 }
