@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "release_date": "2026-08-10",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.6.3/Setup_GestorTurnos_Pro_v1.6.3.exe",
-  "sha256": "58A457B0B6818BD4C668B59DB7C9A9BF4F3EE88D9445B578017ED702132F8E8C",
-  "changelog": "- Guía de uso: se abre en el navegador con imagen visual de cada pantalla\n- Guía de uso: teclas rápidas y contenido actualizado con nuevas funciones\n- Impresión plan semanal: muestra el nombre del hotel en lugar de 'GestorTurnos Pro'",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.6.4/Setup_GestorTurnos_Pro_v1.6.4.exe",
+  "sha256": "8D150B89CAF61808F094EDEFAAC7086E5BD3A0D72C0EEF474FEF6A3BD2D67591",
+  "changelog": "- Guía de uso: se abre en el navegador con imagen visual de cada pantalla\n- Guía de uso: teclas rápidas y contenido actualizado con nuevas funciones\n- Impresión plan semanal: muestra el nombre del hotel en lugar de 'GestorTurnos Pro'\n- Corrección: el descargador de actualizaciones ahora acepta el CDN de GitHub",
   "mandatory": false
 }
