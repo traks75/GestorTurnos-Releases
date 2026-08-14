@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "release_date": "2026-08-12",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.7.0/Setup_GestorTurnos_Pro_v1.7.0.exe",
-  "sha256": "136DD35C3A221EAEB788FD1ECBC6971DAC9FD4B5531C8E550FBEEE737AD7C256",
-  "changelog": "- Sistema multi-PC: hasta 5 equipos activos sobre base de datos compartida\n- Código de instalación de un solo uso (caduca 48h) generado desde Recepción\n- Gestión de equipos en Configuración (solo Dirección): lista, estado y liberación de slots\n- Slots se liberan automáticamente tras 30 días de inactividad\n- Diálogo de sustitución si todos los slots están llenos (sin necesidad de soporte técnico)\n- Guía de instalación completa incluida en el paquete",
+  "version": "1.7.1",
+  "release_date": "2026-08-14",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.7.1/Setup_GestorTurnos_Pro_v1.7.1.exe",
+  "sha256": "0C2CEB6F0114E53FCF77AD9EFB66616EA06F8EF25EC916534FB854E4F0096A6C",
+  "changelog": "- Correcciones menores y mejoras de estabilidad",
   "mandatory": false
 }
