@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
-  "release_date": "2026-08-14",
-  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.7.1/Setup_GestorTurnos_Pro_v1.7.1.exe",
-  "sha256": "1F52969A6C4C8D7D1BB53739CA19834017D4048CD94A12642C77AAC804267143",
-  "changelog": "- Correcciones menores y mejoras de estabilidad",
+  "version": "1.7.2",
+  "release_date": "2026-08-20",
+  "download_url": "https://github.com/traks75/GestorTurnos-Releases/releases/download/v1.7.2/Setup_GestorTurnos_Pro_v1.7.2.exe",
+  "sha256": "A002CD4055BBD01F76B639FA3B56DB7A619BBE0245203D816DED19E3D139BD20",
+  "changelog": "- Selector de idioma (Español, English, Deutsch, Italiano)\n- Aceptación de licencia en el asistente de instalación\n- Archivo de recuperación de contraseñas\n- Exportar e importar datos de acceso a la base de datos",
   "mandatory": false
 }
